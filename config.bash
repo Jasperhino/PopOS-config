@@ -7,6 +7,6 @@ dotfiles checkout
 
 dconf load / < .dconf
 
-gsettings set org.gnome.desktop.background picture-uri "file:///home/jasper/Pictures/Wallpapers/wallpaper.png"
+gsettings set org.gnome.desktop.background picture-uri "file:///home/$USER/Pictures/Wallpapers/wallpaper.png"
 
-gsettings set org.gnome.desktop.screensaver picture-uri "file:///home/jasper/Pictures/Wallpapers/lockscreen.jpg"
+gsettings set org.gnome.desktop.screensaver picture-uri "file:///home/$USER/Pictures/Wallpapers/lockscreen.jpg"
