@@ -2,9 +2,11 @@
 
 My configuration files
 
-## Install config 
-Warning: This may override your own config files. If they are important to you back them up first!
-Run the following commands in your users home directory:
+
+## Install config
+⚠️ Warning: This may override your own config files. If they are important to you back them up first!
+
+Run the following commands in your users **home** directory:
 
 ```
 git clone https://github.com/Jasperhino/PopOS-config.git
