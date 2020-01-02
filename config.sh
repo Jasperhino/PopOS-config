@@ -8,3 +8,8 @@ dconf load / < $HOME/.dconf
 
 gsettings set org.gnome.desktop.background picture-uri "file:///home/$USER/Pictures/Wallpapers/wallpaper.png"
 gsettings set org.gnome.desktop.screensaver picture-uri "file:///home/$USER/Pictures/Wallpapers/lockscreen.jpg"
+
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install zsh
+reboot
