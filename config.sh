@@ -12,4 +12,5 @@ gsettings set org.gnome.desktop.screensaver picture-uri "file:///home/$USER/Pict
 sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get install zsh
+chsh -s $(which zsh)
 reboot
