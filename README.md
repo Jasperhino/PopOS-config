@@ -10,7 +10,8 @@ Run the following commands in your users **home** directory:
 
 ```
 git clone https://github.com/Jasperhino/PopOS-config.git
-chmod +x init.sh  config.sh update.sh
+cd PopOS-config
+chmod +x init.sh config.sh update.sh
 
 ./init.sh
 ./config.sh
