@@ -18,7 +18,7 @@ chmod +x init.sh  config.sh update.sh
 
 ## Add new file to dotfiles
 ```
-dotfiles add .bashrc`
+dotfiles add .bashrc
 dotfiles commit -m "Add bashrc"
 dotfiles push
 ```
